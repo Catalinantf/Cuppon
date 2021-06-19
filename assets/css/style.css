@@ -1,0 +1,23 @@
+* {
+font-family: 'Roboto', sans-serif;
+}
+.caracteristicas-navbar,form{
+  background: #28A745;  
+}
+nav img {
+    height: 2rem;
+    }
+    p , .icono{
+color:#707070
+    }
+    .texto-derecha{
+        text-align: right;
+        background: #ffffff;
+    }
+    .oferta{
+        color: #28A745 ;
+    }
+    footer img{
+        width: 30vw;
+    }
+    
